@@ -1,8 +1,19 @@
-# React + Vite
+# Frontend - Accredian Referral Program
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is the frontend part of the Accredian Referral Program, developed using React and Tailwind CSS. It includes various components such as Hero, How to Refer, Referral Benefits, FAQ, and Footer.
 
-Currently, two official plugins are available:
+Components :-
+Hero: The main hero section with a call-to-action button.
+Navbar: The navigation bar.
+HowToRefer: A section explaining the referral process.
+ReferralBenefits: A section listing the benefits of the referral program.
+FAQ: A section with frequently asked questions.
+Footer: The footer with contact details and social media links.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dependencies:-
+React
+Tailwind CSS
+AOS (Animate On Scroll)
+Axios (for API calls)
+react-icons (for icons)
+react-router-dom (for routing)
