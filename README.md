@@ -1,11 +1,9 @@
 Frontend - Accredian Referral Program
 
-> > > > > > > e1c06cb931113da25fcafc3c5fa8a78e1c788d62
-
 This project is the frontend part of the Accredian Referral Program, developed using React and Tailwind CSS. It includes various components such as Hero, How to Refer, Referral Benefits, FAQ, and Footer.
 
 Components :-
-Hero: The main hero section with a call-to-action button.
+Hero: The main hero section with a call-to-action button.	
 Navbar: The navigation bar.
 HowToRefer: A section explaining the referral process.
 ReferralBenefits: A section listing the benefits of the referral program.
