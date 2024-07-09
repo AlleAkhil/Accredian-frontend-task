@@ -39,7 +39,7 @@ const ReferralModal = ({ closeModal, openConfirmationModal }) => {
     if (!validateForm()) return;
 
     try {
-      await axios.post('http://localhost:5000/api/referrals', formData);
+      await axios.post('https://accredian-backend-task-ylvp.onrender.com/api/referrals', formData);
       openConfirmationModal('Data inserted successfully!');
       closeModal();
     } catch (error) {
