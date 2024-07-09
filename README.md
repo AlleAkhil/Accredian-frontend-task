@@ -4,7 +4,6 @@ This project is the frontend part of the Accredian Referral Program, developed u
 
 Components :-
 Hero: The main hero section with a call-to-action button.
-
 Navbar: The navigation bar.
 HowToRefer: A section explaining the referral process.
 ReferralBenefits: A section listing the benefits of the referral program.
